@@ -3,7 +3,17 @@
 수업 자료 위에 필기·강조·캡처를 더하는 작은 전자칠판 보조 도구입니다.
 이 저장소는 설치 파일과 사용 안내를 배포하는 곳입니다.
 
-**[G-whiteboard 0.1.2 설치 파일과 안내 보기](https://github.com/limhs06082-eng/G-whiteboard-downloads/releases/tag/v0.1.2)**
+<!-- G-WHITEBOARD-DOWNLOAD:START -->
+## Windows 설치 파일 받기
+
+현재 시험 배포 버전: **0.1.3**
+
+**[설치 EXE 다운로드](https://github.com/limhs06082-eng/G-whiteboard-downloads/releases/download/v0.1.3/2026-10-04-G-whiteboard-0.1.3-Windows-x64-setup.exe)** · **[설치 안내 포함 ZIP 다운로드](https://github.com/limhs06082-eng/G-whiteboard-downloads/releases/download/v0.1.3/2026-10-04-G-whiteboard-0.1.3-Windows-x64.zip)**
+
+[버전별 사용 안내와 변경 내용](https://github.com/limhs06082-eng/G-whiteboard-downloads/releases/tag/v0.1.3)
+
+64비트 Windows용입니다. 코드 서명이 없는 시험 배포본이므로 수업 전 기기에서 확인해 주세요.
+<!-- G-WHITEBOARD-DOWNLOAD:END -->
 
 64비트 Windows용 시험 배포본입니다. WebView2가 없는 PC에서는 첫 설치 때 인터넷이 필요합니다. 로그인 없이 사용할 수 있습니다.
 코드 서명이 없으며 기기별 터치·전용 펜·전체 화면·설치·저장은 수업 전에 확인해 주세요. 종료 후 필기·캡처 창은 자동 복원되지 않습니다.
