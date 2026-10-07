@@ -6,11 +6,11 @@
 <!-- G-WHITEBOARD-DOWNLOAD:START -->
 ## Windows 설치 파일 받기
 
-현재 시험 배포 버전: **0.1.7**
+현재 시험 배포 버전: **0.1.8**
 
-**[설치 EXE 다운로드](https://github.com/limhs06082-eng/G-whiteboard-downloads/releases/download/v0.1.7/2026-10-05-G-whiteboard-0.1.7-Windows-x64-setup.exe)** · **[설치 안내 포함 ZIP 다운로드](https://github.com/limhs06082-eng/G-whiteboard-downloads/releases/download/v0.1.7/2026-10-05-G-whiteboard-0.1.7-Windows-x64.zip)**
+**[설치 EXE 다운로드](https://github.com/limhs06082-eng/G-whiteboard-downloads/releases/download/v0.1.8/2026-10-07-G-whiteboard-0.1.8-Windows-x64-setup.exe)** · **[설치 안내 포함 ZIP 다운로드](https://github.com/limhs06082-eng/G-whiteboard-downloads/releases/download/v0.1.8/2026-10-07-G-whiteboard-0.1.8-Windows-x64.zip)**
 
-[버전별 사용 안내와 변경 내용](https://github.com/limhs06082-eng/G-whiteboard-downloads/releases/tag/v0.1.7)
+[버전별 사용 안내와 변경 내용](https://github.com/limhs06082-eng/G-whiteboard-downloads/releases/tag/v0.1.8)
 
 64비트 Windows용입니다. 코드 서명이 없는 시험 배포본이므로 수업 전 기기에서 확인해 주세요.
 <!-- G-WHITEBOARD-DOWNLOAD:END -->
